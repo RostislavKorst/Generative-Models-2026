@@ -8,3 +8,7 @@ Note that this information may change over the course.
 Deadline | Link | Description|
 ---------|------|-----------|
 12.10.2026 | [Denoising Diffusion Probabilistic Models](https://github.com/RostislavKorst/Generative-Models-2026/blob/main/Assignment%201/1_ddpm.ipynb) | Diffusion Models practice
+16.11.2026 | [Generative Adversarial Networks (GANs) and Conditional Generation](https://github.com/RostislavKorst/Generative-Models-2026/blob/main/Assignment%202/2_gan_dcgan_conditional.ipynb) | GAN, DCGAN and Conditional GAN implementation
+
+
+
